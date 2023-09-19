@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Dadaguai&#39;s Blogs</title>
+        <title>Dadaguai&#39;s Blog</title>
         <link>https://dadaguai12315.github.io/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 19 Sep 2023 15:17:39 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 19 Sep 2023 19:20:42 &#43;0800</lastBuildDate>
             <atom:link href="https://dadaguai12315.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>First_post</title>
     <link>https://dadaguai12315.github.io/posts/first_post/</link>
-    <pubDate>Tue, 19 Sep 2023 15:17:39 &#43;0800</pubDate>
-    <author>Dadaguai</author>
+    <pubDate>Tue, 19 Sep 2023 19:20:42 &#43;0800</pubDate>
+    <author>Author</author>
     <guid>https://dadaguai12315.github.io/posts/first_post/</guid>
-    <description><![CDATA[示例Markdown文件 这是一个演示Markdown文件的示例。Markdown是一种轻量级标记语言，用于创建格式化文本。 标题 Markdow]]></description>
+    <description><![CDATA[]]></description>
 </item>
 </channel>
 </rss>
