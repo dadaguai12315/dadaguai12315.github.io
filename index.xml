@@ -1,9 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Dadaguai&#39;s Blog</title>
-    <link>https://dadaguai12315.github.io/</link>
-    <description>Dadaguai&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language>
-      <atom:link href="https://dadaguai12315.github.io/index.xml" rel="self" type="application/rss+xml" />
-    </channel>
-</rss>
