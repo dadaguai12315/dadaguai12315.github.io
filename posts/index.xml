@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Dadaguai&#39;s Blog</title>
-    <link>https://dadaguai12315.github.io/</link>
-    <description>Dadaguai&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 21 Sep 2023 23:35:55 &#43;0800</lastBuildDate>
-      <atom:link href="https://dadaguai12315.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <title>所有文章 - Dadaguai&#39;s Blog</title>
+    <link>https://dadaguai12315.github.io/posts/</link>
+    <description>所有文章 | Dadaguai&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 21 Sep 2023 23:35:55 &#43;0800</lastBuildDate><atom:link href="https://dadaguai12315.github.io/posts/" rel="self" type="application/rss+xml" /><item>
   <title>Ttt</title>
   <link>https://dadaguai12315.github.io/posts/ttt/</link>
   <pubDate>Thu, 21 Sep 2023 23:35:55 &#43;0800</pubDate>
