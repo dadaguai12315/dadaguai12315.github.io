@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Dadaguai&#39;s Blog</title>
-    <link>https://dadaguai12315.github.io/</link>
-    <description>Dadaguai&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 22 Sep 2023 19:31:21 &#43;0800</lastBuildDate>
-      <atom:link href="https://dadaguai12315.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <title>Pacman - 标签 - Dadaguai&#39;s Blog</title>
+    <link>https://dadaguai12315.github.io/tags/pacman/</link>
+    <description>Pacman - 标签 - Dadaguai&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 22 Sep 2023 19:31:21 &#43;0800</lastBuildDate><atom:link href="https://dadaguai12315.github.io/tags/pacman/" rel="self" type="application/rss+xml" /><item>
   <title>Problem With Pacman Update Signature Is Unknown Trust</title>
   <link>https://dadaguai12315.github.io/posts/problem-with-pacman-update-signature-is-unknown-trust/</link>
   <pubDate>Fri, 22 Sep 2023 19:31:21 &#43;0800</pubDate>
