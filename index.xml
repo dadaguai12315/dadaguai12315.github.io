@@ -3,9 +3,25 @@
     <title>Dadaguai&#39;s Blog</title>
     <link>https://dadaguai12315.github.io/</link>
     <description>Dadaguai&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 22 Sep 2023 19:31:21 &#43;0800</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 06 Oct 2023 19:53:33 &#43;0800</lastBuildDate>
       <atom:link href="https://dadaguai12315.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>X11桌面非整数倍缩放</title>
+  <link>https://dadaguai12315.github.io/posts/x11%E6%A1%8C%E9%9D%A2%E9%9D%9E%E6%95%B4%E6%95%B0%E5%80%8D%E7%BC%A9%E6%94%BE/</link>
+  <pubDate>Fri, 06 Oct 2023 19:53:33 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://dadaguai12315.github.io/posts/x11%E6%A1%8C%E9%9D%A2%E9%9D%9E%E6%95%B4%E6%95%B0%E5%80%8D%E7%BC%A9%E6%94%BE/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Bspwm Proxy Config</title>
+  <link>https://dadaguai12315.github.io/posts/bspwm-proxy-config/</link>
+  <pubDate>Fri, 06 Oct 2023 18:39:21 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://dadaguai12315.github.io/posts/bspwm-proxy-config/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Problem With Pacman Update Signature Is Unknown Trust</title>
   <link>https://dadaguai12315.github.io/posts/problem-with-pacman-update-signature-is-unknown-trust/</link>
   <pubDate>Fri, 22 Sep 2023 19:31:21 &#43;0800</pubDate>
